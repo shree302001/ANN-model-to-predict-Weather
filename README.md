@@ -1,1 +1,1 @@
-# ANN-modle-to-predict-Weather
+# ANN-model-to-predict-Weather
